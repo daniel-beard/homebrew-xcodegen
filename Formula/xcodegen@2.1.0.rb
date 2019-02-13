@@ -6,7 +6,7 @@ class XcodegenAT210 < Formula
   version "2.1.0"
 
   bottle do
-    root_url "https://github.com/dbeard/homebrew-xcodegen/raw/master/bottles"
+    root_url "https://github.com/daniel-beard/homebrew-xcodegen/raw/master/bottles"
     cellar :any_skip_relocation
     sha256 "29fbfde654ab43730cb878294e021b2ba1cd8a41e9c23bd1006541e7d4de3e1f" => :mojave
   end
